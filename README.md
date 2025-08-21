@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/Oracle_SQL-FF0000?logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL_SQL-FF0000?logo=oracle&logoColor=white)
 
 ### Estoy aprendiendo
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
