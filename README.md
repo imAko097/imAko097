@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🎓 **Formación Profesional de Grado Superior en Desarrollo de Aplicaciones Web**  
 📊 **Formación Profesional de Grado Superior en Administración y Finanzas**
 
-## 💻 Tecnologías que manejo
+## 💻 Tecnologías que manejo:
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-FF0000?logo=oracle&logoColor=white)
 
-**Estoy aprendiendo**  
+### Estoy aprendiendo
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)  
 
