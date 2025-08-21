@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Aco. 🤙🏻
 
 <!--
 **imAko097/imAko097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 **Formación Profesional de Grado Superior en Desarrollo de Aplicaciones Web**  
+📊 **Ciclo Superior en Administración y Finanzas**
+
+💻 Apasionado por el desarrollo web moderno, actualmente trabajo con:
+- ⚡ **Laravel**
+- ⚛️ **React**
+
+## 🚧 Actualmente trabajando en:
+- 🎮 [![Repo](https://img.shields.io/badge/GitHub-GTA%20Online%20Tracker-181717?logo=github)](https://github.com/imAko097/gta-online-tracker)
+  Aplicación web para **GTA Online** que ayuda a los jugadores a gestionar de forma eficiente sus negocios virtuales, mostrando tiempos de producción y estado de cada uno.
+  🛠️ Tecnologías: Laravel 12, React 19, Inertia.js, TypeScript, TailwindCSS.
+  
+📫 **Cómo contactarme:**  
+- [LinkedIn](https://www.linkedin.com/in/acoid%C3%A1n-betancor-arocha-797b20196/)
+
+---
