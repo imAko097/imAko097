@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 🎓 **Formación Profesional de Grado Superior en Desarrollo de Aplicaciones Web**  
-📊 **Ciclo Superior en Administración y Finanzas**
+📊 **Formación Profesional de Grado Superior en Administración y Finanzas**
 
 💻 Apasionado por el desarrollo web moderno, actualmente trabajo con:
 - ⚡ **Laravel**
 - ⚛️ **React**
 
 ## 🚧 Actualmente trabajando en:
-- 🎮 [![Repo](https://img.shields.io/badge/GitHub-GTA%20Online%20Tracker-181717?logo=github)](https://github.com/imAko097/gta-online-tracker)
+- 🎮 [![Repo](https://img.shields.io/badge/GitHub-GTA%20Online%20Tracker-181717?logo=github)](https://github.com/imAko097/gta-online-tracker)<br>
   Aplicación web para **GTA Online** que ayuda a los jugadores a gestionar de forma eficiente sus negocios virtuales, mostrando tiempos de producción y estado de cada uno.
   🛠️ Tecnologías: Laravel 12, React 19, Inertia.js, TypeScript, TailwindCSS.
   
